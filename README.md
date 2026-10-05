@@ -34,3 +34,7 @@ Este repositorio contiene una colección de videojuegos desarrollados durante el
 1. Clona este repositorio:
    ```bash
    git clone [https://github.com/yuaquintero/videojuegos-poo.git](https://github.com/yuaquintero/videojuegos-poo.git)
+
+2. Abre la solución (.sln) o las carpetas de los proyectos en Visual Studio o VS Code.
+
+3. Compila y ejecuta la aplicación (tecla F5).
