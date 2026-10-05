@@ -20,6 +20,8 @@ Este repositorio contiene una colección de videojuegos desarrollados durante el
 * **Descripción:** Juego retro de naves espaciales con mecánicas de disparo y control de oleadas de enemigos.
 * **Tecnología:** C# (.NET) / Windows Forms.
 * **Componentes clave:** Renderizado gráfico avanzado mediante la clase **System.Drawing** (`Graphics`, `Pen`, `Brush`, etc.) sobre el lienzo en lugar de `PictureBox` estáticos.
+* **Diagrama:** [Ver Diagrama de Clases de Space Invaders](./SpaceInvaders/SpaceInvaderUML.gif)
+
 
 ---
 
