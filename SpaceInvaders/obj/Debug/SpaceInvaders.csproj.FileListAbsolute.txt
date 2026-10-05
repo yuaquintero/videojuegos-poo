@@ -1,0 +1,8 @@
+C:\Users\y.quinterota\Downloads\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\y.quinterota\Downloads\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\y.quinterota\Downloads\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\y.quinterota\Downloads\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+C:\Users\y.quinterota\Downloads\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\y.quinterota\Downloads\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\y.quinterota\Downloads\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\y.quinterota\Downloads\SpaceInvaders\obj\Debug\SpaceInvaders.pdb

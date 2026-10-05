@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceInvaders", "SpaceInvaders.csproj", "{4B5B2A34-984A-4B32-A57A-2B6224CA21F7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup3", "..\Setup3\Setup3.vdproj", "{DD481FBD-0864-41C3-9A70-5F525E23B17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4B5B2A34-984A-4B32-A57A-2B6224CA21F7}.Debug.ActiveCfg = Debug|.NET
+		{4B5B2A34-984A-4B32-A57A-2B6224CA21F7}.Debug.Build.0 = Debug|.NET
+		{4B5B2A34-984A-4B32-A57A-2B6224CA21F7}.Release.ActiveCfg = Release|.NET
+		{4B5B2A34-984A-4B32-A57A-2B6224CA21F7}.Release.Build.0 = Release|.NET
+		{DD481FBD-0864-41C3-9A70-5F525E23B17E}.Debug.ActiveCfg = Debug
+		{DD481FBD-0864-41C3-9A70-5F525E23B17E}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
