@@ -6,15 +6,18 @@ Este repositorio contiene una colección de videojuegos desarrollados durante el
 
 ### 1. BombermanGame
 * **Descripción:** Recreación del clásico juego Bomberman aplicando conceptos de POO.
-* **Tecnología:** [Especifica el lenguaje/librería, ej: Java / C# / Python]
+* **Tecnología:** C# (.NET) / Windows Forms.
+* **Componentes clave:** Implementación mediante controles **PictureBox** para renderizar al personaje, bombas y obstáculos.
 
 ### 2. PacmanGame
 * **Descripción:** Implementación del juego Pac-Man con movimiento de fantasmas y recolección de puntos.
-* **Tecnología:** [Especifica el lenguaje/librería]
+* **Tecnología:** C# (.NET) / Windows Forms.
+* **Componentes clave:** Uso de **PictureBox** para la gestión de colisiones del escenario, fantasmas y del jugador.
 
 ### 3. SpaceInvaders
 * **Descripción:** Juego retro de naves espaciales con mecánicas de disparo y control de oleadas de enemigos.
-* **Tecnología:** [Especifica el lenguaje/librería]
+* **Tecnología:** C# (.NET) / Windows Forms.
+* **Componentes clave:** Renderizado gráfico avanzado mediante la clase **System.Drawing** (`Graphics`, `Pen`, `Brush`, etc.) sobre el lienzo en lugar de `PictureBox` estáticos.
 
 ---
 
@@ -30,4 +33,4 @@ Este repositorio contiene una colección de videojuegos desarrollados durante el
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/videojuegos-poo.git](https://github.com/TU_USUARIO/videojuegos-poo.git)
+   git clone [https://github.com/yuaquintero/videojuegos-poo.git](https://github.com/yuaquintero/videojuegos-poo.git)
