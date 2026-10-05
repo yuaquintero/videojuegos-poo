@@ -8,11 +8,13 @@ Este repositorio contiene una colección de videojuegos desarrollados durante el
 * **Descripción:** Recreación del clásico juego Bomberman aplicando conceptos de POO.
 * **Tecnología:** C# (.NET) / Windows Forms.
 * **Componentes clave:** Implementación mediante controles **PictureBox** para renderizar al personaje, bombas y obstáculos.
+* **Diagrama:** [Ver Diagrama de Clases de Bomberman](./BombermanGame/BombermanDiagramaClases.png)
 
 ### 2. PacmanGame
 * **Descripción:** Implementación del juego Pac-Man con movimiento de fantasmas y recolección de puntos.
 * **Tecnología:** C# (.NET) / Windows Forms.
 * **Componentes clave:** Uso de **PictureBox** para la gestión de colisiones del escenario, fantasmas y del jugador.
+* **Diagrama:** [Ver Diagrama de Clases de Pacman](./PacmanGame/Diagrama_clases_pacman.png)
 
 ### 3. SpaceInvaders
 * **Descripción:** Juego retro de naves espaciales con mecánicas de disparo y control de oleadas de enemigos.
