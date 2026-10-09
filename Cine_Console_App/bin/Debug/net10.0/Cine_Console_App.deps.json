@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Cine_Console_App/1.0.0": {
+        "runtime": {
+          "Cine_Console_App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cine_Console_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

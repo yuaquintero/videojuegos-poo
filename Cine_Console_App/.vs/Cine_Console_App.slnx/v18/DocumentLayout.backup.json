@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\Cine_Console_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A996470-0967-1C6F-3F65-46B932073406}|Cine_Console_App.csproj|c:\\users\\usuario\\source\\repos\\cine_console_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A996470-0967-1C6F-3F65-46B932073406}|Cine_Console_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A996470-0967-1C6F-3F65-46B932073406}|Cine_Console_App.csproj|c:\\users\\usuario\\source\\repos\\cine_console_app\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A996470-0967-1C6F-3F65-46B932073406}|Cine_Console_App.csproj|solutionrelative:sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A996470-0967-1C6F-3F65-46B932073406}|Cine_Console_App.csproj|c:\\users\\usuario\\source\\repos\\cine_console_app\\funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A996470-0967-1C6F-3F65-46B932073406}|Cine_Console_App.csproj|solutionrelative:funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcion.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Cine_Console_App\\Funcion.cs",
+              "RelativeDocumentMoniker": "Funcion.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Cine_Console_App\\Funcion.cs",
+              "RelativeToolTip": "Funcion.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T23:26:31.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Cine_Console_App\\Sala.cs",
+              "RelativeDocumentMoniker": "Sala.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Cine_Console_App\\Sala.cs",
+              "RelativeToolTip": "Sala.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T23:26:26.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Cine_Console_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Cine_Console_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAApwC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T23:25:38.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

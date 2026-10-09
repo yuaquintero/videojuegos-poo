@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\bomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:bomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|c:\\users\\usuario\\documents\\videojuegos-poo\\bombermangame\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\escenario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:escenario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\bomberman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:bomberman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\llave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:llave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\objetografico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:objetografico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\paredsolida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:paredsolida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BombermanGame||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\resources\\you_win.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:resources\\you_win.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\vtninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:vtninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\vtninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:vtninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\vtninfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:vtninfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\resources\\murosolido.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FA98B07C-E450-4EDF-B4F2-E90240C1A7D3}|BombermanGame.csproj|solutionrelative:resources\\murosolido.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Escenario.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Escenario.cs",
+              "RelativeDocumentMoniker": "Escenario.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Escenario.cs",
+              "RelativeToolTip": "Escenario.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAcwAwBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Explosion.cs",
+              "RelativeDocumentMoniker": "Explosion.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Explosion.cs",
+              "RelativeToolTip": "Explosion.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tablero.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Tablero.cs",
+              "RelativeDocumentMoniker": "Tablero.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Tablero.cs",
+              "RelativeToolTip": "Tablero.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIAzwHYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Personaje.cs",
+              "RelativeDocumentMoniker": "Personaje.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Personaje.cs",
+              "RelativeToolTip": "Personaje.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAxwHQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bomba.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Bomba.cs",
+              "RelativeDocumentMoniker": "Bomba.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Bomba.cs",
+              "RelativeToolTip": "Bomba.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswGEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParedSolida.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\ParedSolida.cs",
+              "RelativeDocumentMoniker": "ParedSolida.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\ParedSolida.cs",
+              "RelativeToolTip": "ParedSolida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:12.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Escenario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Escenario.cs",
+              "RelativeDocumentMoniker": "Escenario.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Escenario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Escenario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:12.542Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Escenario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Escenario.Designer.cs",
+              "RelativeDocumentMoniker": "Escenario.Designer.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Escenario.Designer.cs",
+              "RelativeToolTip": "Escenario.Designer.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAhwNEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bomberman.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Bomberman.cs",
+              "RelativeDocumentMoniker": "Bomberman.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Bomberman.cs",
+              "RelativeToolTip": "Bomberman.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAF4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Llave.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Llave.cs",
+              "RelativeDocumentMoniker": "Llave.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Llave.cs",
+              "RelativeToolTip": "Llave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ObjetoGrafico.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\ObjetoGrafico.cs",
+              "RelativeDocumentMoniker": "ObjetoGrafico.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\ObjetoGrafico.cs",
+              "RelativeToolTip": "ObjetoGrafico.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Enemigo.cs",
+              "RelativeDocumentMoniker": "Enemigo.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Enemigo.cs",
+              "RelativeToolTip": "Enemigo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Puerta.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Puerta.cs",
+              "RelativeDocumentMoniker": "Puerta.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Puerta.cs",
+              "RelativeToolTip": "Puerta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Audio.cs",
+              "RelativeDocumentMoniker": "Audio.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Audio.cs",
+              "RelativeToolTip": "Audio.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BombermanGame",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\BombermanGame.csproj",
+              "RelativeDocumentMoniker": "BombermanGame.csproj",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\BombermanGame.csproj",
+              "RelativeToolTip": "BombermanGame.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VtnInfo.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\VtnInfo.cs",
+              "RelativeDocumentMoniker": "VtnInfo.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\VtnInfo.cs",
+              "RelativeToolTip": "VtnInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VtnInfo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\VtnInfo.cs",
+              "RelativeDocumentMoniker": "VtnInfo.cs",
+              "ToolTip": "C:\\Users\\y.quinterota\\source\\repos\\BombermanGame\\VtnInfo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\y.quinterota\\source\\repos\\BombermanGame\\VtnInfo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "you_Win.png",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Resources\\you_Win.png",
+              "RelativeDocumentMoniker": "Resources\\you_Win.png",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Resources\\you_Win.png",
+              "RelativeToolTip": "Resources\\you_Win.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-05T21:06:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwNUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002870|",
+              "WhenOpened": "2026-10-05T21:06:13.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VtnInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\VtnInfo.Designer.cs",
+              "RelativeDocumentMoniker": "VtnInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\VtnInfo.Designer.cs",
+              "RelativeToolTip": "VtnInfo.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwE8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-10-05T21:06:13.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MuroSolido.png",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Resources\\MuroSolido.png",
+              "RelativeDocumentMoniker": "Resources\\MuroSolido.png",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\BombermanGame\\Resources\\MuroSolido.png",
+              "RelativeToolTip": "Resources\\MuroSolido.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-05T21:06:13.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

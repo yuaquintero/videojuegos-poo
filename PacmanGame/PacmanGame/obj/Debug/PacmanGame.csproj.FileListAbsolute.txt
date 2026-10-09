@@ -19,3 +19,14 @@ C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\PacmanGame\obj\Debug\PacmanGame
 C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\PacmanGame\obj\Debug\PacmanGame.exe
 C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\PacmanGame\obj\Debug\PacmanGame.pdb
 C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Mensaje.resources
+C:\Users\usuario\Documents\videojuegos-poo\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\videojuegos-poo\PacmanGame\PacmanGame\obj\Debug\PacmanGame.exe
+C:\Users\usuario\Documents\videojuegos-poo\PacmanGame\PacmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\usuario\Documents\videojuegos-poo\PacmanGame\PacmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\usuario\Documents\videojuegos-poo\PacmanGame\PacmanGame\bin\Debug\PacmanGame.exe
+C:\Users\usuario\Documents\videojuegos-poo\PacmanGame\PacmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\usuario\Documents\videojuegos-poo\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Form1.resources
+C:\Users\usuario\Documents\videojuegos-poo\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Mensaje.resources
+C:\Users\usuario\Documents\videojuegos-poo\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\usuario\Documents\videojuegos-poo\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\videojuegos-poo\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache

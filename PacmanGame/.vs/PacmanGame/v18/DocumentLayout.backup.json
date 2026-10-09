@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|c:\\users\\usuario\\documents\\videojuegos-poo\\pacmangame\\pacmangame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|solutionrelative:pacmangame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\pacmangame\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|solutionrelative:pacmangame\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\pacmangame\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|solutionrelative:pacmangame\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PacmanGame||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\pacmangame\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|solutionrelative:pacmangame\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\pacmangame\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|solutionrelative:pacmangame\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\pacmangame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|solutionrelative:pacmangame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\pacmangame\\fantasma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|solutionrelative:pacmangame\\fantasma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\pacmangame\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|solutionrelative:pacmangame\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\pacmangame\\objetografico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|solutionrelative:pacmangame\\objetografico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\pacmangame\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E4FE3D-FE6B-443A-A32A-EE023B919356}|PacmanGame\\PacmanGame.csproj|solutionrelative:pacmangame\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mensaje.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Mensaje.cs",
+              "RelativeDocumentMoniker": "PacmanGame\\Mensaje.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\PacmanGame\\PacmanGame\\PacmanGame\\Mensaje.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\PacmanGame\\PacmanGame\\PacmanGame\\Mensaje.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-10-05T21:12:25.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fantasma.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Fantasma.cs",
+              "RelativeDocumentMoniker": "PacmanGame\\Fantasma.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Fantasma.cs",
+              "RelativeToolTip": "PacmanGame\\Fantasma.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAawB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:12:25.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Audio.cs",
+              "RelativeDocumentMoniker": "PacmanGame\\Audio.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Audio.cs",
+              "RelativeToolTip": "PacmanGame\\Audio.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:12:25.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dot.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Dot.cs",
+              "RelativeDocumentMoniker": "PacmanGame\\Dot.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Dot.cs",
+              "RelativeToolTip": "PacmanGame\\Dot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:12:25.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacmanGame",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\PacmanGame.csproj",
+              "RelativeDocumentMoniker": "PacmanGame\\PacmanGame.csproj",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\PacmanGame.csproj",
+              "RelativeToolTip": "PacmanGame\\PacmanGame.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T21:12:25.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Form1.cs",
+              "RelativeDocumentMoniker": "PacmanGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Form1.cs",
+              "RelativeToolTip": "PacmanGame\\Form1.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAzwHUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:12:25.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mensaje.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Mensaje.cs",
+              "RelativeDocumentMoniker": "PacmanGame\\Mensaje.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Mensaje.cs",
+              "RelativeToolTip": "PacmanGame\\Mensaje.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAhwCUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-10-05T21:12:24.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Form1.cs",
+              "RelativeDocumentMoniker": "PacmanGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\PacmanGame\\PacmanGame\\PacmanGame\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\PacmanGame\\PacmanGame\\PacmanGame\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-10-05T21:12:25.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ObjetoGrafico.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\ObjetoGrafico.cs",
+              "RelativeDocumentMoniker": "PacmanGame\\ObjetoGrafico.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\ObjetoGrafico.cs",
+              "RelativeToolTip": "PacmanGame\\ObjetoGrafico.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:12:25.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pacman.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Pacman.cs",
+              "RelativeDocumentMoniker": "PacmanGame\\Pacman.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Pacman.cs",
+              "RelativeToolTip": "PacmanGame\\Pacman.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAwDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:12:25.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Personaje.cs",
+              "RelativeDocumentMoniker": "PacmanGame\\Personaje.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\videojuegos-poo\\PacmanGame\\PacmanGame\\Personaje.cs",
+              "RelativeToolTip": "PacmanGame\\Personaje.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAlwCEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:12:25.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

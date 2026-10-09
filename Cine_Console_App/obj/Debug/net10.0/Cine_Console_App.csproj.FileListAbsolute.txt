@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Cine_Console_App\bin\Debug\net10.0\Cine_Console_App.exe
+C:\Users\usuario\source\repos\Cine_Console_App\bin\Debug\net10.0\Cine_Console_App.deps.json
+C:\Users\usuario\source\repos\Cine_Console_App\bin\Debug\net10.0\Cine_Console_App.runtimeconfig.json
+C:\Users\usuario\source\repos\Cine_Console_App\bin\Debug\net10.0\Cine_Console_App.dll
+C:\Users\usuario\source\repos\Cine_Console_App\bin\Debug\net10.0\Cine_Console_App.pdb
+C:\Users\usuario\source\repos\Cine_Console_App\obj\Debug\net10.0\Cine_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Cine_Console_App\obj\Debug\net10.0\Cine_Console_App.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Cine_Console_App\obj\Debug\net10.0\Cine_Console_App.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Cine_Console_App\obj\Debug\net10.0\Cine_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Cine_Console_App\obj\Debug\net10.0\Cine_Console_App.dll
+C:\Users\usuario\source\repos\Cine_Console_App\obj\Debug\net10.0\refint\Cine_Console_App.dll
+C:\Users\usuario\source\repos\Cine_Console_App\obj\Debug\net10.0\Cine_Console_App.pdb
+C:\Users\usuario\source\repos\Cine_Console_App\obj\Debug\net10.0\Cine_Console_App.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Cine_Console_App\obj\Debug\net10.0\ref\Cine_Console_App.dll
+C:\Users\usuario\source\repos\Cine_Console_App\obj\Debug\net10.0\Cine_Con.6DD570E6.Up2Date
